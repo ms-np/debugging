@@ -83,6 +83,10 @@ The topics you should focus on during your study this week.
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
 > - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
 
+### Breakpoints Stepping
+
+- [Chrome Debugger Reference](https://developers.google.com/web/tools/chrome-devtools/javascript/reference)
+
 ### JavaScript Prep Work
 
 - [Prep Work Practice Problems](https://hackyourfuture.be/debugging/week-2/prep)
@@ -114,7 +118,7 @@ During the week we encourage you to experiment with different browsers, but duri
 
 ### Integrate
 
-Learn to use global variables inside your handler functions to save data between user interactions.
+Learn to use shared-script variables inside your handler functions to save data between user interactions.
 
 The project this week is not collaborative.  You work together in your small groups, but should not be working on the same repository.
 
@@ -122,9 +126,9 @@ The project this week is not collaborative.  You work together in your small gro
 
 Helpful code to study:
 
-- [Set, Display](../integrate/using-global-variables/set-display.html)
-- [String Repeater](../integrate/using-global-variables/string-repeater.html)
-- [guessing game](../integrate/using-global-variables/guessing-game.html)
+- [Set, Display](../integrate/using-shared-script-variables/set-display.html)
+- [String Repeater](../integrate/using-shared-script-variables/string-repeater.html)
+- [guessing game](../integrate/using-shared-script-variables/guessing-game.html)
 
 [TOP](#debugging)
 
@@ -159,9 +163,9 @@ Helpful code to study:
 ### Exercises
 
 - [debuggercises](https://github.com/hackyourfuturebelgium/debuggercises)
-  - :egg: 7 -> 10
-  - :hatching_chick: 11 -> 15
-  - :hatched_chick: 15+
+  - :egg: 8 -> 10
+  - :hatching_chick: 11 -> 17
+  - :hatched_chick: 18+
 - [using-user-input](https://github.com/HackYourFutureBelgium/using-user-input)
   - :egg: Levels 3 and 4
   - :hatching_chick: Level 5
@@ -172,5 +176,24 @@ Helpful code to study:
 
 #### Checklist
 
-#### `repo-name`
+```md
+- [ ] [repo](https://github.com/user-name/project-name)
+- [ ] [live](https://user-name.github.io/project-name)
+- [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
+- [ ] [One branch per step in `development-strategy.md`](https://github.com/user-name/repo-name/network)
+- [ ] [One closed Issue per step in `development-strategy.md`](https://github.com/user-name/repo-name/issues?q=is%3Aissue+is%3Aclosed)
+- [ ] [One closed PR per step in `development-strategy.md`](https://github.com/user-name/repo-name/pulls?q=is%3Apr+is%3Aclosed)
+- [ ] [A project board](https://github.com/user-name/repo-name/projects/X) with all issues moved to "Done"
+- [ ] A complete README
+```
+
+#### `prompt-alert-calculate`
+
+> [Starter Code](https://home.hackyourfuture.be/students/weekly-assignments#projects)
+
+Collaboration!  This project should be completed in groups.  Generate a new repo for your team using [debugging-project-week-1](https://github.com/HackYourFutureBelgium/prompt-alert-calculate) and have at it.
+
+There are is no right or wrong development strategy, and there is no right or wrong user interface!  What matters is that you agree as a team, and that your plan is clearly communicated in your repository.
+
+:shipit:
 
